@@ -1,1 +1,2 @@
-Hello everyone,Good Morning
+#simple prgrm 
+print("This is my file")
